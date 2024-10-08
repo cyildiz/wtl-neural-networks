@@ -27,5 +27,6 @@ Sizinle 3 adet kod dosyası (Jupyter Notebook) paylaşacağız.
 1. Lineer ve Lojistik Regresyon
 2. Tek Katmanlı Yapay Sinir Ağı
 3. Keras ile Derin Sinir Ağı
+
 Bunları başlangıç noktası (starter) olarak kullanarak bootcamp esnasında birlikte kodlayabilirsiniz. Kod dosyasındaki metinler büyük ölçüde İngilizce olacaktır, bootcampi takip ederken istediğiniz dilde yorumlarınızı ekleyerek genişletmenizi öneririz.
 
